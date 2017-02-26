@@ -6,8 +6,7 @@ const App = () => (
   <div className={styles.app}>
     <h2>Hello Mastora</h2>
     
-    // Tha exoun koino login kai apo vash tha vlepei pu anhkoun kai tha tus peta se xehwristo
-    //ara 1 login.
+ 
       <RaisedButton label="shop log in" primary={true} />
       <RaisedButton label="customer log in" secondary={true} />
       <br />
